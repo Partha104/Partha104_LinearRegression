@@ -1,12 +1,4 @@
 # Project Name
-Linear Regression Assignment on Bike Sharing
-Tools Used :- Jupyter Notebook
-
-###Libraries Used
-
-
-# Project Name
-> Outline a brief description of your project.
 > This assignment is a programming assignment wherein need to build a multiple linear regression model for the prediction of demand for shared bikes
 
 
@@ -44,4 +36,4 @@ Modeling was done and the dependednt variables were also mentioned which are maj
 -matplotlib
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Partha104] - feel free to contact me!
